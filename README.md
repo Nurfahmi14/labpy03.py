@@ -81,3 +81,4 @@ print("Selesai")
 -[x]cetak data dan memasukan random.uniform kurang dari 0,5
 -[x]jika selesai maka RUN
 
+![ss6](https://user-images.githubusercontent.com/46735662/52929949-17828580-3379-11e9-81d9-9a7c7cc0b3b0.png)
