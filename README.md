@@ -62,5 +62,22 @@ Pengulangan digunakan untuk menjalankan satu atau beberapa pernyataan sebanyak b
 
 ![ss4](https://user-images.githubusercontent.com/46735662/52928746-e18ed280-3373-11e9-9e60-f785430d03b1.png)
 
+#PENGULANGAN ACAK
 
+import random
+
+n = input("masukan nilai N:")
+
+for x in range (1,6):
+
+  print("data ke:",x,"=>",random.uniform(0.0,0.5))
+  
+print("Selesai")
+
+*penjelasan algoritma
+
+-[x]masukan nilai N=5
+-[x]gunakan for range, untuk mengulang data
+-[x]cetak data dan memasukan random.uniform kurang dari 0,5
+-[x]jika selesai maka RUN
 
