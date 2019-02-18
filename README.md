@@ -59,3 +59,8 @@ print("bilangan terbesar:",max)
 
 Pengulangan digunakan untuk menjalankan satu atau beberapa pernyataan sebanyak beberapa kali. dengan kata lain, pengulangan memungkinkan kita untuk menjalankan beberapa pernyataan hanya dengan menuliskan pernyataan tersebut satu kali saja.
 
+
+![ss4](https://user-images.githubusercontent.com/46735662/52928746-e18ed280-3373-11e9-9e60-f785430d03b1.png)
+
+
+
