@@ -36,7 +36,7 @@ print("\ntotal : ", total)
 
 Pernyataan break dan continue digunakan untuk mengubah aliran kontrol.Pernyataan break, ketika dijalankan dalam perulangan while, for, do...while, dan pernyataan switch, menyebabkan keluar dari pernyataan itu lalu eksekusi program berlanjut dengan pernyataan berikutnya.
 
-
+![ss5](https://user-images.githubusercontent.com/46735662/52929189-efddee00-3375-11e9-9096-ff11757ea5b1.png)
 
 #PERULANGAN TAK TERBATAS JIKA DI MASUKAN DATA 0 AKAN BERAKHIR 
 ```python
