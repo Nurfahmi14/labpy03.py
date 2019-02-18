@@ -1,4 +1,5 @@
 # labpy03.py
+Perulangan RANDOM di bawah 0,5
 ``` python
 a = 100000000
 
